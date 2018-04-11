@@ -35,7 +35,9 @@ html {
     color: whitesmoke;
     /* font-size: 3vh; */
   }
-
+iframe{
+  max-width: 100%
+}
 
 
  .mainimage{
